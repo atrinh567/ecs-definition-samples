@@ -172,7 +172,7 @@
                 "options": {
                     "KeyName": ""
                 }
-            }
+            }   
         }
     ],
     "volumes": [
